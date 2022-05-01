@@ -1,0 +1,13 @@
+id,type code,description,code string,controller
+1,99,Master user,MST,master
+2,1,Education Coordinator,EDU,education
+3,2,Events Coordinator,EVS,events
+4,0,Not Set,NON,home
+5,3,Speaker,SPK,speaker
+6,4,General Member,GEN,member
+7,5,Club Admin,CLB,admin
+8,6,Elmer,ELM,elmer
+9,50,Silent Key,SLT,member
+10,7,Lifetime Member,LIF,member
+11,8,Honorary Member,HON,member
+12,12,Staff member,STF,staff
