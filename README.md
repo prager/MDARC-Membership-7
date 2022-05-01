@@ -2,14 +2,15 @@
 The purpose of this web portal is to provide Mount Diablo Amateur Radio Club (MDARC) members with a system for checking of their membership status, then provides them with club's resources available only for its members and later with a payment gateway to pay for membership fees including donations.
 
 ## Current status
-The project has been rolled out for the use by MDARC members. However, the Portal supplies only the basic functions MDARC members and new features are being developed and added. Selected members are invited to check and test the new features on the project's development version: https://mdarc-dev.jlkconsulting.info. Please, be aware that this version is also using a develoopment database and not the live database that on the back end of the live production version.
+The project has been rolled out for the use by MDARC members. However, the Portal supplies only the basic functions MDARC members and new features are being developed and added. Selected members are invited to check and test the new features on the project's development version: https://mdarc-dev.jlkconsulting.info. Please, be aware that this version is also using a develoopment database and not the live database on the back end of the live production version.
 
-And the URL for the stable version: https://mdarc.jlkconsulting.info
+The current URL for the production and stable version: https://mdarc.jlkconsulting.info
 
 It is expected that in the near future the Membership Portal will be incorporated into the main MDARC website at https://mdarc.org
 
 # System requirements:
 1. Current version of Apache web server not older than 2.2.34
+2. PHP version not older than 7.3
 
 ## Technologies
 The web portal is developed on the LAMP (Linux-Apache-MySQL-PHP) stack using PHP framework CodeIgniter ver. 4.1.5 (https://codeigniter.com) and MySQL (https://www.mysql.com/) database on the back end and Bootstrap CSS framework (https://getbootstrap.com) ver. 5.1.3 on the front end.
