@@ -30,10 +30,13 @@
                 <td>All Members (incl. family members)</td>
                 <td><?php echo $dir_cnt; ?></td>
               </tr>
+
               <tr>
                 <td>New Members For The Year</td>
                 <td><?php echo $new_mems_period; ?></td>
               </tr>
+
+              <!-- need to fix this
               <tr>
                 <td>New Members For The Period</td>
                 <td><a href="#" class="text-decoration-none" data-bs-toggle="modal" data-bs-target="#newMems">
@@ -47,7 +50,7 @@
                 </td>
                 <?php include 'modal_new_mems.php'; ?>
               </tr>
-              <!--<tr>
+              <tr>
                 <td>Renewals This Year</td>
                 <td><?php //echo $cnt_renew; ?></td>
               </tr>-->

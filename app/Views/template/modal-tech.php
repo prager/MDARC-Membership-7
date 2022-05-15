@@ -8,8 +8,8 @@
         <div class="modal-body">
             <p class="lead">Short Technical Description</p>
             <div class="mb-3">
+                <p>Current update # 7</p>
                 <p>This is a web based LAMP (Linux-Apache-MySQL-PHP) application that is taking advantage of CodeIgniter PHP framework and MySQL database on the back end. </p>
-
                 <p>The front end features Bootstrap 5 CSS framework.</p>
             </div>
         </div>
