@@ -12,7 +12,8 @@
             <div>
                 <h1>MDARC <span class="text-warning">Membership Portal</span> </h1>
                 <p class="my-4">
-                  This website is intended for MDARC (<a href="http://mdarc.org" target="_blank" class="text-decoration-none">Mount Diablo Amateur Radio Club</a>) members to check on their membership status and later will provide payment gateway, among other additional features. More on <a href="<?php echo base_url() . '/index.php/faqs'; ?>" class="text-decoration-none">FAQ page</a>. In case anyone would like to participate in the portal development, make sure you are a registered user and then let the webmaster know via the <a href="<?php echo base_url(). '/index.php/contact'?>" class="text-decoration-none">Contact Page</a>.
+                  <span class="fw-bold">Field Day 2022</span> is held during the weekend of 25-26 June. More info <a href="http://www.arrl.org/field-day" target="_blank" class="text-decoration-none">here</a>.</p>
+                <p class="my-4">This website is intended for MDARC (<a href="http://mdarc.org" target="_blank" class="text-decoration-none">Mount Diablo Amateur Radio Club</a>) members to check on their membership status and later will provide payment gateway, among other additional features. More on <a href="<?php echo base_url() . '/index.php/faqs'; ?>" class="text-decoration-none">FAQ page</a>. In case anyone would like to participate in the portal development, make sure you are a registered user and then let the webmaster know via the <a href="<?php echo base_url(). '/index.php/contact'?>" class="text-decoration-none">Contact Page</a>.
                 </p>
                 <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#login"> User Login </button>
             </div>
@@ -46,7 +47,7 @@
                 <img src="/img/collaborate.svg" class="img-fluid w-75 d-none d-sm-block" alt="">
             </div>
             <div class="col-lg">
-                <h2>New Subcommittee</h2>
+                <h2>Digital Review Subcommittee</h2>
                 <p class="lead">
                     MDARC established new <span class="text-decoration-underline text-success">Digital Media Review Team</span> for its websites development, social media interactions, etc.
                 </p>
